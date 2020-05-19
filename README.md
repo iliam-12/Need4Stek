@@ -9,6 +9,8 @@ PDF is available
 #### Usage:
       make re && ./pipes.sh
 
+## Some examples :
+
 #### diamond_bonus.ttt:
 
 
