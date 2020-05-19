@@ -1,2 +1,6 @@
 # Need4Stek
-Autonomous car driving program in C.
+
+PDF is available
+
+#### Usage:
+      make re && ./pipes.sh
