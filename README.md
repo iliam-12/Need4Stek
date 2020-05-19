@@ -4,7 +4,7 @@ PDF is available
 
 #### _Download CoppeliaSim here_ :
     https://www.coppeliarobotics.com/downloads
-    ./coppeliaSim.sh
+    In this folder, exec ./coppeliaSim.sh
 
 #### Usage:
       make re && ./pipes.sh
